@@ -1,0 +1,13 @@
+name: line-push-crystal
+version: 0.1.0
+
+authors:
+  - kmkj000 <kd1191681@st.kobedenshi.ac.jp>
+
+targets:
+  line-push-crystal:
+    main: src/line-push-crystal.cr
+
+crystal: 0.27.2
+
+license: MIT
