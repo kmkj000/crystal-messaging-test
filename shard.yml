@@ -1,6 +1,10 @@
 name: line-push-crystal
 version: 0.1.0
 
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+
 authors:
   - kmkj000 <kd1191681@st.kobedenshi.ac.jp>
 
